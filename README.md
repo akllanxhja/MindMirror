@@ -1,2 +1,2 @@
 # MindMirror
-Landing page for Mind Mirror
+Building page for Mind Mirror
